@@ -12,5 +12,8 @@
 </head>
 <body>
 Index JSP TEST
+<p><a href="login.jsp">Login</a></p>
+<a href="register.jsp">Register</a>
+
 </body>
 </html>

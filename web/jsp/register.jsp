@@ -8,9 +8,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>register</title>
+    <title>Register</title>
 </head>
-<body>
-register
+<input>
+< action="registerAction" method="get">
+Login: <input name="login" type="text"><br>
+Password: <input name="password" type="password"><br>
+<input name="submit" type="submit">
+</form>
 </body>
 </html>
